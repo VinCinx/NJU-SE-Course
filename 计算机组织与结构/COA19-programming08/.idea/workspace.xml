@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dbb79b1-801b-4dd4-8a67-6381d0157790" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ldnXtu2J08E4DZ0fXS0O09MdjJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/cpu/instr" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cpu.instr.all_instrs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\19programming08\src\main\java\cpu\instr" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ICCTest.file_test7">
+    <configuration name="ICCTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpu.instr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cpu.instr" />
+      <option name="MAIN_CLASS_NAME" value="cpu.instr.ICCTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ICCTest.file_test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpu.instr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cpu.instr" />
+      <option name="MAIN_CLASS_NAME" value="cpu.instr.ICCTest" />
+      <option name="METHOD_NAME" value="file_test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ICCTest.file_test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpu.instr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cpu.instr" />
+      <option name="MAIN_CLASS_NAME" value="cpu.instr.ICCTest" />
+      <option name="METHOD_NAME" value="file_test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ICCTest.file_test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpu.instr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cpu.instr" />
+      <option name="MAIN_CLASS_NAME" value="cpu.instr.ICCTest" />
+      <option name="METHOD_NAME" value="file_test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ICCTest.file_test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpu.instr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cpu.instr" />
+      <option name="MAIN_CLASS_NAME" value="cpu.instr.ICCTest" />
+      <option name="METHOD_NAME" value="file_test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ICCTest.file_test7" />
+        <item itemvalue="JUnit.ICCTest.file_test5" />
+        <item itemvalue="JUnit.ICCTest.file_test4" />
+        <item itemvalue="JUnit.ICCTest.file_test3" />
+        <item itemvalue="JUnit.ICCTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dbb79b1-801b-4dd4-8a67-6381d0157790" name="Default Changelist" comment="" />
+      <created>1607935878450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607935878450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1607935967452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607935967452" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1608725012564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608725012564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cpu/CPU.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cpu/instr/ICCTest.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kernel/MainEntry.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cpu/CPU.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
